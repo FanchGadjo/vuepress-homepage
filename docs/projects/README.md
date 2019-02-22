@@ -20,9 +20,23 @@ Here are some works of mine :books:
 
 <MarkdownCard>
 
-  **Harry Potter and the Deathly Hallows**
+  **Comparative Study on Decapsulation for Copper and Silver Wire-Bonded Devices**
+
+  *François KERISIT, Bernadette DOMENGES and Michael OBEIN*
   
-  In the epilogue of Deathly Hallows, which is set 19 years after Voldemort's death, Harry and Ginny are a couple and have three children: James Sirius Potter, who has already been at Hogwarts for at least one year, Albus Severus Potter, who is starting his first year there, and Lily Luna Potter, who is two years away from her first year at the school.
+  The introduction of silver as bonding material led to new failure analysis issues. This study compares the efficiency of wet and dry chemistries for decapsulation on Cu and Ag-based alloy wires. It is shown that dry chemistry allows better control and selectivity on the EMC/ Cu and Ag-based bond wires.
+
+  [[PDF](publications/Comparative Study on Decapsulation for Copper and Silver Wire-Bonded Devices 2014.pdf)]
+
+</MarkdownCard>
+
+<MarkdownCard>
+
+  **A Prototype of Laser-Hollowed Integrated Circuit for Dielectric Sensing of Liquids: Perspectives for Medical Applications**
+
+  *N. Prou, L. Leyssenne, I. Lahbib, B. Domengès, F. Kerisit, D. Lesénéchal, P. Descamps and S. Wane*
+  
+  This work investigates the impact of dielectric loading on the RF performances of integrated VCO and PLL systems. Both On-Chip and System-Level (On-Board) experimental characterizations are carried out to determine influence of various substances (resins, salted water, petroleum, sugar mixture) on frequency variations, taking into account the importance of mechanical fixture. Calibration and monitoring aspects are discussed towards real-time measurement of aqueous concentrations of liquids for medical applications.
 
   [[Link](https://www.google.com)]
 
