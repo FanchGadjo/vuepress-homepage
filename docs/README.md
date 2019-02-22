@@ -2,18 +2,18 @@
 layout: Homepage
 description: 'The biography and information about me.'
 avatar: /profile.jpg
-head: 'Harry Potter'
-info: 'Student at Hogwarts School'
-interests: 'Interests: Quidditch and Wizard chess.'
+head: 'François Kerisit'
+info: 'IT & EE Engineer'
+interests: 'Interests: computer, web, electronics, diving and photography'
 socials:
 - title: github
-  link: https://github.com/mtobeiyf
+  link: https://github.com/fanchgadjo
 - title: linkedin
-  link: https://www.linkedin.com
+  link: https://www.linkedin.com/in/françois-kerisit-5279a410
 - title: instagram
-  link: https://www.instagram.com
+  link: https://www.instagram.com/fanchgadjo/
 - title: email
-  link: 'mailto:harry[at]gmail.com'
+  link: 'mailto:f.kerisit[at]gmail.com'
 actions:
 - text: Projects
   link: /projects/
@@ -24,4 +24,4 @@ actions:
 footer: Made with ♥ by Fing. Powered by VuePress
 ---
 
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
+I attended [ENSICAEN Engineering School](https://www.ensicaen.fr/) to study electrical engineering, specializing in instrumentation. I am currently working at W2Next on our [OCelium](http://www.ocelium.fr/). I worked at [Digit Concept](http://www.digit-concept.com/), as an R&D engineer.
