@@ -1,6 +1,6 @@
 module.exports = {
-  title: "Harry Potter",
-  description: "The description of the site.",
+  title: "François Kerisit",
+  description: "My personal website.",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
   base: "/",
   dest: "./dist",
